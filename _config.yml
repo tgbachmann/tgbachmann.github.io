@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Tristan Bachmann
 
 # Your name to show in the footer
 author: Tristan Bachmann
@@ -20,11 +20,9 @@ author: Tristan Bachmann
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "home"
+  Research: "research"
+  CV: "cv"
 
 ################
 # --- Logo --- #
